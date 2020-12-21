@@ -3,7 +3,7 @@ import { css } from "@emotion/core"
 import Nav from "./nav"
 import styled from "@emotion/styled"
 import { Link } from "gatsby"
-
+//julian-herrera
 const LinkHome = styled(Link)`
   color: #fff;
   text-align: center;
