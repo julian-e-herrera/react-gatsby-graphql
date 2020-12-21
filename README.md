@@ -1,2 +1,2 @@
 # react-gatsby-graphql
-## deplou https://suspicious-pare-eed2ad.netlify.app/
+## deploy at https://suspicious-pare-eed2ad.netlify.app/
