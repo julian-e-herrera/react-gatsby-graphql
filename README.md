@@ -1,2 +1,2 @@
 # react-gatsby-graphql
-## view  https://suspicious-pare-eed2ad.netlify.app
+## view  https://gatsby-react-hotel.netlify.app
